@@ -1,0 +1,10 @@
+80000000
+8
+Site1 Al-Aziziya Ar-Rihab Mosharafa Al-Faysaliya Cost 20000000
+Site2 Ar-Rihab Bani-Malik An-Naseem Al-Balad Cost 50000000
+Site3 Al-Balad Al-Salam Al-Makarona As-Salmiya Al-Gozain Cost 40000000
+Site4 As-Salmiya Al-Gozain Al-Hamdaniya Cost 10000000
+Site5 Mosharafa Al-Faysaliya An-Naseem Al-Balad Cost 30000000
+Site6 Al-Balad Al-Salam Al-Hamdaniya Cost 10000000
+Site7 Al-Balad Mosharafa Al-Salam Al-Makarona As-Salmiya Cost 60000000
+Site8 Ar-Rihab Bani-Malik Al-Makarona As-Salmiya Al-Balad Cost 50000000
